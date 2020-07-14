@@ -4,7 +4,7 @@ const path = "./src/";
 
 const dirs = fs.readdirSync(path);
 
-const lastFileName = "readme2.md";
+const lastFileName = "readme.md";
 
 let fileData = "# 前端知识点总结\n";
 
