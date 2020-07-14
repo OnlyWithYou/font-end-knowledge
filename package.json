@@ -1,0 +1,22 @@
+{
+  "name": "font-end-knowledge",
+  "version": "1.0.0",
+  "description": "hnowledge for fonter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnlyWithYou/font-end-knowledge.git"
+  },
+  "keywords": [
+    "gont-end-knowledge"
+  ],
+  "author": "xiao_yu_hn@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlyWithYou/font-end-knowledge/issues"
+  },
+  "homepage": "https://github.com/OnlyWithYou/font-end-knowledge#readme"
+}
